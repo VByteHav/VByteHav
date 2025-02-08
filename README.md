@@ -4,7 +4,7 @@
 Fullstack projects  
 
 💬 Ask me about:  
-JavaScript, React, Next.js, Node.js, AWS, and any general software development questions.  
+JavaScript, React, Next.js, Node.js, and any general web development questions.  
 
 ---
 
