@@ -1,6 +1,4 @@
 # 💫 About Me:
-🔭 I’m currently working on:  
-Improving my skills   
 
 👯 I’m looking to collaborate on:  
 Fullstack projects  
