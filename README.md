@@ -1,4 +1,6 @@
 # 💫 About Me:
+👺 Currently learning:
+Typescript 
 
 👯 I’m looking to collaborate on:  
 Fullstack projects  
